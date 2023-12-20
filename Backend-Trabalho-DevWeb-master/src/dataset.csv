@@ -1,0 +1,6 @@
+dy_anualizado,lucro_anualizado,peso_idx_ref,preco_fechamento,roe_anualizado,volume_anualizado,id,tipo_ativo_id,nome,setor,ticker
+10.88,35889521.25,5.11,18.25,20.55,3325100.88,1,1,"Banco do Brasil",Bancário,BBAS
+8.99,NULL,11.45,100.87,NULL,25145.88,2,2,"BTG Logística",Logístico,BTLG11
+0.22,1500000,1.11,15,8.88,6000,3,2,Fleury,Médico,FLRY3
+0.22,NULL,NULL,2.22,NULL,6000,4,1,"Construtora JHSF",Construtora,JHSF3
+7.25,NULL,NULL,24.22,NULL,80000,5,1,"Transmissora Paulista de Energia","Energia Elétrica",TRPL11

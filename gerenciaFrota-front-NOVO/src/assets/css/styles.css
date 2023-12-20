@@ -1,0 +1,81 @@
+.blue-header {
+    background-image: linear-gradient(to right, #1cb19d, #186995)}
+
+.header-menu {
+    font-weight: bold;
+    color: white;
+    padding: 20px 20px;
+    text-decoration: none;
+ }
+
+.header-menu:hover, .header-menu:active {
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+ } 
+
+.banner-section-main {
+    background-image: url("../images/banner-02-bg.png");
+    opacity: 1;
+    background-color: #d8e4e6;
+    color: #202020;
+    padding: 50px;
+    text-align: left;
+}
+
+.container-body {
+    margin-top: 50px;
+    display: flex;
+    align-items: center; /* alinha verticalmente no centro, opcional */
+    text-align: center;
+}
+
+.section-title {
+    font-weight: 900;
+    color: #00598a;
+    text-decoration: none;
+}
+
+.card-sgmentos {
+    display: flex;
+    align-items: center;
+}
+
+.column-gap-4 {
+    margin-left: 20px;
+}
+
+.card-img-align {
+    max-height: 77px;
+}
+
+.finance-value-card {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 25px;
+    font-size: large;
+    font-weight: 400;
+}
+
+.card-info {
+    font-size: large;
+    font-weight: 600;
+    color: #236c0e;
+}
+
+.card-img-align-two {
+    max-height: 50px;
+    margin-top: 3px;
+    margin-left: 6px;
+}
+
+.title-2 {
+    padding:0px;
+    margin-top: 6px;
+}
+
+.finance-value-card-two {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 15px;
+    font-size: large;
+}
